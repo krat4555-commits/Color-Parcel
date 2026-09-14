@@ -1,5 +1,0 @@
-pyTelegramBotAPI
-pymongo
-flask
-python-dotenv
-gunicorn
